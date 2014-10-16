@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chy:home|Door43 (chy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chy|d43-chy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chy/archive/master.zip|d43-chy.zip]]
+
+**Recent Changes**
+{{changes>ns = chy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chy|Ethnologue data]]
+
